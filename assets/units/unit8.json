@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 8,
+    "title": "Food & Tastes",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u8l1w1",
+            "marathi": "गोड",
+            "transliteration": "God",
+            "english": "Sweet",
+            "emoji": "🍬",
+            "audio": "u8l1w1.mp3",
+            "examples": [
+              {
+                "id": "u8l1w1_ex1",
+                "marathi": "हा आंबा खूप गोड आहे.",
+                "transliteration": "Ha Aamba Khup God Aahe.",
+                "english": "This mango is very sweet.",
+                "audio": "u8l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l1w2",
+            "marathi": "तिखट",
+            "transliteration": "Tikhat",
+            "english": "Spicy",
+            "emoji": "🌶️",
+            "audio": "u8l1w2.mp3",
+            "examples": [
+              {
+                "id": "u8l1w2_ex1",
+                "marathi": "ही भाजी खूप तिखट आहे.",
+                "transliteration": "Hi Bhaji Khup Tikhat Aahe.",
+                "english": "This vegetable is very spicy.",
+                "audio": "u8l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l1w3",
+            "marathi": "आंबट",
+            "transliteration": "Aambat",
+            "english": "Sour",
+            "emoji": "🍋",
+            "audio": "u8l1w3.mp3",
+            "examples": [
+              {
+                "id": "u8l1w3_ex1",
+                "marathi": "लिंबू आंबट असते.",
+                "transliteration": "Limbu Aambat Asate.",
+                "english": "Lemon is sour.",
+                "audio": "u8l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l1w4",
+            "marathi": "खारट",
+            "transliteration": "Kharat",
+            "english": "Salty",
+            "emoji": "🧂",
+            "audio": "u8l1w4.mp3",
+            "examples": [
+              {
+                "id": "u8l1w4_ex1",
+                "marathi": "हे पाणी खारट आहे.",
+                "transliteration": "He Pani Kharat Aahe.",
+                "english": "This water is salty.",
+                "audio": "u8l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u8l2w1",
+            "marathi": "कडू",
+            "transliteration": "Kadu",
+            "english": "Bitter",
+            "emoji": "☕",
+            "audio": "u8l2w1.mp3",
+            "examples": [
+              {
+                "id": "u8l2w1_ex1",
+                "marathi": "हे औषध कडू आहे.",
+                "transliteration": "He Aushadh Kadu Aahe.",
+                "english": "This medicine is bitter.",
+                "audio": "u8l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l2w2",
+            "marathi": "चवदार",
+            "transliteration": "Chavdar",
+            "english": "Tasty",
+            "emoji": "😋",
+            "audio": "u8l2w2.mp3",
+            "examples": [
+              {
+                "id": "u8l2w2_ex1",
+                "marathi": "आईचे जेवण चवदार असते.",
+                "transliteration": "Aaiche Jevan Chavdar Asate.",
+                "english": "Mother's food is tasty.",
+                "audio": "u8l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l2w3",
+            "marathi": "पाणी",
+            "transliteration": "Pani",
+            "english": "Water",
+            "emoji": "💧",
+            "audio": "u8l2w3.mp3",
+            "examples": [
+              {
+                "id": "u8l2w3_ex1",
+                "marathi": "मला पाणी द्या.",
+                "transliteration": "Mala Pani Dya.",
+                "english": "Give me water.",
+                "audio": "u8l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l2w4",
+            "marathi": "जेवण",
+            "transliteration": "Jevan",
+            "english": "Meal",
+            "emoji": "🍽️",
+            "audio": "u8l2w4.mp3",
+            "examples": [
+              {
+                "id": "u8l2w4_ex1",
+                "marathi": "जेवण तयार आहे.",
+                "transliteration": "Jevan Tayar Aahe.",
+                "english": "The meal is ready.",
+                "audio": "u8l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u8l3w1",
+            "marathi": "भूक",
+            "transliteration": "Bhook",
+            "english": "Hunger",
+            "emoji": "😋",
+            "audio": "u8l3w1.mp3",
+            "examples": [
+              {
+                "id": "u8l3w1_ex1",
+                "marathi": "मला भूक लागली आहे.",
+                "transliteration": "Mala Bhook Laagli Aahe.",
+                "english": "I am hungry.",
+                "audio": "u8l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l3w2",
+            "marathi": "तहान",
+            "transliteration": "Tahaan",
+            "english": "Thirst",
+            "emoji": "🥤",
+            "audio": "u8l3w2.mp3",
+            "examples": [
+              {
+                "id": "u8l3w2_ex1",
+                "marathi": "मला तहान लागली आहे.",
+                "transliteration": "Mala Tahaan Laagli Aahe.",
+                "english": "I am thirsty.",
+                "audio": "u8l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l3w3",
+            "marathi": "गरम",
+            "transliteration": "Garam",
+            "english": "Hot",
+            "emoji": "🔥",
+            "audio": "u8l3w3.mp3",
+            "examples": [
+              {
+                "id": "u8l3w3_ex1",
+                "marathi": "चहा गरम आहे.",
+                "transliteration": "Chaha Garam Aahe.",
+                "english": "The tea is hot.",
+                "audio": "u8l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l3w4",
+            "marathi": "थंड",
+            "transliteration": "Thand",
+            "english": "Cold",
+            "emoji": "❄️",
+            "audio": "u8l3w4.mp3",
+            "examples": [
+              {
+                "id": "u8l3w4_ex1",
+                "marathi": "आइस्क्रीम थंड आहे.",
+                "transliteration": "Ice-cream Thand Aahe.",
+                "english": "Ice cream is cold.",
+                "audio": "u8l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u8l4w1",
+            "marathi": "ताजे",
+            "transliteration": "Taje",
+            "english": "Fresh",
+            "emoji": "🥬",
+            "audio": "u8l4w1.mp3",
+            "examples": [
+              {
+                "id": "u8l4w1_ex1",
+                "marathi": "या भाज्या ताज्या आहेत.",
+                "transliteration": "Ya Bhajya Tajya Aahet.",
+                "english": "These vegetables are fresh.",
+                "audio": "u8l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l4w2",
+            "marathi": "मसालेदार",
+            "transliteration": "Masaledar",
+            "english": "Flavorful/spiced",
+            "emoji": "🌶️",
+            "audio": "u8l4w2.mp3",
+            "examples": [
+              {
+                "id": "u8l4w2_ex1",
+                "marathi": "हे जेवण मसालेदार आहे.",
+                "transliteration": "He Jevan Masaledar Aahe.",
+                "english": "This food is flavorful.",
+                "audio": "u8l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l4w3",
+            "marathi": "भाकरी",
+            "transliteration": "Bhakri",
+            "english": "Flatbread",
+            "emoji": "🫓",
+            "audio": "u8l4w3.mp3",
+            "examples": [
+              {
+                "id": "u8l4w3_ex1",
+                "marathi": "आई भाकरी बनवते.",
+                "transliteration": "Aai Bhakri Banavte.",
+                "english": "Mother makes flatbread.",
+                "audio": "u8l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u8l4w4",
+            "marathi": "भात",
+            "transliteration": "Bhaat",
+            "english": "Rice",
+            "emoji": "🍚",
+            "audio": "u8l4w4.mp3",
+            "examples": [
+              {
+                "id": "u8l4w4_ex1",
+                "marathi": "आम्ही भात आणि वरण खातो.",
+                "transliteration": "Aamhi Bhaat Aani Varan Khato.",
+                "english": "We eat rice and lentils.",
+                "audio": "u8l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 7,
+    "title": "Activities",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u7l1w1",
+            "marathi": "खेळणे",
+            "transliteration": "Khelne",
+            "english": "To play",
+            "emoji": "⚽",
+            "audio": "u7l1w1.mp3",
+            "examples": [
+              {
+                "id": "u7l1w1_ex1",
+                "marathi": "मुले मैदानात खेळत आहेत.",
+                "transliteration": "Mule Maidanaat Khelat Aahet.",
+                "english": "Children are playing in the field.",
+                "audio": "u7l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l1w2",
+            "marathi": "वाचणे",
+            "transliteration": "Vachne",
+            "english": "To read",
+            "emoji": "📖",
+            "audio": "u7l1w2.mp3",
+            "examples": [
+              {
+                "id": "u7l1w2_ex1",
+                "marathi": "मला पुस्तक वाचणे आवडते.",
+                "transliteration": "Mala Pustak Vachne Aavadte.",
+                "english": "I like reading books.",
+                "audio": "u7l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l1w3",
+            "marathi": "लिहिणे",
+            "transliteration": "Lihine",
+            "english": "To write",
+            "emoji": "✏️",
+            "audio": "u7l1w3.mp3",
+            "examples": [
+              {
+                "id": "u7l1w3_ex1",
+                "marathi": "तो पत्र लिहित आहे.",
+                "transliteration": "To Patra Lihit Aahe.",
+                "english": "He is writing a letter.",
+                "audio": "u7l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l1w4",
+            "marathi": "झोपणे",
+            "transliteration": "Zopne",
+            "english": "To sleep",
+            "emoji": "😴",
+            "audio": "u7l1w4.mp3",
+            "examples": [
+              {
+                "id": "u7l1w4_ex1",
+                "marathi": "मला लवकर झोपायचे आहे.",
+                "transliteration": "Mala Lavkar Zopaayche Aahe.",
+                "english": "I want to sleep early.",
+                "audio": "u7l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u7l2w1",
+            "marathi": "धावणे",
+            "transliteration": "Dhavne",
+            "english": "To run",
+            "emoji": "🏃",
+            "audio": "u7l2w1.mp3",
+            "examples": [
+              {
+                "id": "u7l2w1_ex1",
+                "marathi": "तो वेगाने धावतो.",
+                "transliteration": "To Veganey Dhavto.",
+                "english": "He runs fast.",
+                "audio": "u7l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l2w2",
+            "marathi": "गाणे",
+            "transliteration": "Gaane",
+            "english": "To sing",
+            "emoji": "🎤",
+            "audio": "u7l2w2.mp3",
+            "examples": [
+              {
+                "id": "u7l2w2_ex1",
+                "marathi": "ती छान गाणे गाते.",
+                "transliteration": "Ti Chaan Gaane Gaate.",
+                "english": "She sings a nice song.",
+                "audio": "u7l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l2w3",
+            "marathi": "नाचणे",
+            "transliteration": "Nachne",
+            "english": "To dance",
+            "emoji": "💃",
+            "audio": "u7l2w3.mp3",
+            "examples": [
+              {
+                "id": "u7l2w3_ex1",
+                "marathi": "मुली नाचत आहेत.",
+                "transliteration": "Muli Nachat Aahet.",
+                "english": "The girls are dancing.",
+                "audio": "u7l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l2w4",
+            "marathi": "काम करणे",
+            "transliteration": "Kaam Karne",
+            "english": "To work",
+            "emoji": "💼",
+            "audio": "u7l2w4.mp3",
+            "examples": [
+              {
+                "id": "u7l2w4_ex1",
+                "marathi": "मी ऑफिसमध्ये काम करतो.",
+                "transliteration": "Mi Office Madhe Kaam Karto.",
+                "english": "I work in an office.",
+                "audio": "u7l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u7l3w1",
+            "marathi": "पोहणे",
+            "transliteration": "Pohne",
+            "english": "To swim",
+            "emoji": "🏊",
+            "audio": "u7l3w1.mp3",
+            "examples": [
+              {
+                "id": "u7l3w1_ex1",
+                "marathi": "मला पोहणे आवडते.",
+                "transliteration": "Mala Pohne Aavadte.",
+                "english": "I like to swim.",
+                "audio": "u7l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l3w2",
+            "marathi": "स्वयंपाक करणे",
+            "transliteration": "Swayampak Karne",
+            "english": "To cook",
+            "emoji": "🍳",
+            "audio": "u7l3w2.mp3",
+            "examples": [
+              {
+                "id": "u7l3w2_ex1",
+                "marathi": "आई स्वयंपाक करते.",
+                "transliteration": "Aai Swayampak Karte.",
+                "english": "Mother cooks.",
+                "audio": "u7l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l3w3",
+            "marathi": "साफ करणे",
+            "transliteration": "Saaf Karne",
+            "english": "To clean",
+            "emoji": "🧹",
+            "audio": "u7l3w3.mp3",
+            "examples": [
+              {
+                "id": "u7l3w3_ex1",
+                "marathi": "मी खोली साफ करतो.",
+                "transliteration": "Mi Kholi Saaf Karto.",
+                "english": "I clean the room.",
+                "audio": "u7l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l3w4",
+            "marathi": "खरेदी करणे",
+            "transliteration": "Kharedi Karne",
+            "english": "To shop",
+            "emoji": "🛍️",
+            "audio": "u7l3w4.mp3",
+            "examples": [
+              {
+                "id": "u7l3w4_ex1",
+                "marathi": "आम्ही बाजारात खरेदी करतो.",
+                "transliteration": "Aamhi Bazaraat Kharedi Karto.",
+                "english": "We shop at the market.",
+                "audio": "u7l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u7l4w1",
+            "marathi": "प्रवास करणे",
+            "transliteration": "Pravas Karne",
+            "english": "To travel",
+            "emoji": "✈️",
+            "audio": "u7l4w1.mp3",
+            "examples": [
+              {
+                "id": "u7l4w1_ex1",
+                "marathi": "मला प्रवास करणे आवडते.",
+                "transliteration": "Mala Pravas Karne Aavadte.",
+                "english": "I like to travel.",
+                "audio": "u7l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l4w2",
+            "marathi": "शिकणे",
+            "transliteration": "Shikne",
+            "english": "To learn",
+            "emoji": "📚",
+            "audio": "u7l4w2.mp3",
+            "examples": [
+              {
+                "id": "u7l4w2_ex1",
+                "marathi": "मला नवीन भाषा शिकायला आवडते.",
+                "transliteration": "Mala Naveen Bhasha Shikayla Aavadte.",
+                "english": "I like learning new languages.",
+                "audio": "u7l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l4w3",
+            "marathi": "चित्र काढणे",
+            "transliteration": "Chitra Kadhne",
+            "english": "To draw",
+            "emoji": "🎨",
+            "audio": "u7l4w3.mp3",
+            "examples": [
+              {
+                "id": "u7l4w3_ex1",
+                "marathi": "ती सुंदर चित्र काढते.",
+                "transliteration": "Ti Sundar Chitra Kadhte.",
+                "english": "She draws beautiful pictures.",
+                "audio": "u7l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u7l4w4",
+            "marathi": "हसणे",
+            "transliteration": "Hasne",
+            "english": "To laugh",
+            "emoji": "😄",
+            "audio": "u7l4w4.mp3",
+            "examples": [
+              {
+                "id": "u7l4w4_ex1",
+                "marathi": "आम्ही खूप हसलो.",
+                "transliteration": "Aamhi Khup Haslo.",
+                "english": "We laughed a lot.",
+                "audio": "u7l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

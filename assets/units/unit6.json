@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 6,
+    "title": "Numbers & Counting",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u6l1w1",
+            "marathi": "चार",
+            "transliteration": "Char",
+            "english": "Four",
+            "emoji": "4️⃣",
+            "audio": "u6l1w1.mp3",
+            "examples": [
+              {
+                "id": "u6l1w1_ex1",
+                "marathi": "टेबलावर चार खुर्च्या आहेत.",
+                "transliteration": "Tablavar Char Khurchya Aahet.",
+                "english": "There are four chairs on the table.",
+                "audio": "u6l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l1w2",
+            "marathi": "पाच",
+            "transliteration": "Paach",
+            "english": "Five",
+            "emoji": "5️⃣",
+            "audio": "u6l1w2.mp3",
+            "examples": [
+              {
+                "id": "u6l1w2_ex1",
+                "marathi": "मला पाच रुपये द्या.",
+                "transliteration": "Mala Paach Rupaye Dya.",
+                "english": "Give me five rupees.",
+                "audio": "u6l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l1w3",
+            "marathi": "सहा",
+            "transliteration": "Saha",
+            "english": "Six",
+            "emoji": "6️⃣",
+            "audio": "u6l1w3.mp3",
+            "examples": [
+              {
+                "id": "u6l1w3_ex1",
+                "marathi": "सहा वाजता भेटूया.",
+                "transliteration": "Saha Vajta Bhetuya.",
+                "english": "Let's meet at six.",
+                "audio": "u6l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l1w4",
+            "marathi": "सात",
+            "transliteration": "Saat",
+            "english": "Seven",
+            "emoji": "7️⃣",
+            "audio": "u6l1w4.mp3",
+            "examples": [
+              {
+                "id": "u6l1w4_ex1",
+                "marathi": "आठवड्यात सात दिवस असतात.",
+                "transliteration": "Aathvadyaat Saat Divas Astaat.",
+                "english": "There are seven days in a week.",
+                "audio": "u6l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u6l2w1",
+            "marathi": "आठ",
+            "transliteration": "Aath",
+            "english": "Eight",
+            "emoji": "8️⃣",
+            "audio": "u6l2w1.mp3",
+            "examples": [
+              {
+                "id": "u6l2w1_ex1",
+                "marathi": "शाळा आठ वाजता सुरू होते.",
+                "transliteration": "Shaala Aath Vajta Suru Hote.",
+                "english": "School starts at eight.",
+                "audio": "u6l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l2w2",
+            "marathi": "नऊ",
+            "transliteration": "Nau",
+            "english": "Nine",
+            "emoji": "9️⃣",
+            "audio": "u6l2w2.mp3",
+            "examples": [
+              {
+                "id": "u6l2w2_ex1",
+                "marathi": "मी नऊ वाजता उठतो.",
+                "transliteration": "Mi Nau Vajta Uthto.",
+                "english": "I wake up at nine.",
+                "audio": "u6l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l2w3",
+            "marathi": "दहा",
+            "transliteration": "Daha",
+            "english": "Ten",
+            "emoji": "🔟",
+            "audio": "u6l2w3.mp3",
+            "examples": [
+              {
+                "id": "u6l2w3_ex1",
+                "marathi": "दहा मिनिटे थांबा.",
+                "transliteration": "Daha Minite Thamba.",
+                "english": "Wait ten minutes.",
+                "audio": "u6l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l2w4",
+            "marathi": "शून्य",
+            "transliteration": "Shunya",
+            "english": "Zero",
+            "emoji": "0️⃣",
+            "audio": "u6l2w4.mp3",
+            "examples": [
+              {
+                "id": "u6l2w4_ex1",
+                "marathi": "उत्तर शून्य आहे.",
+                "transliteration": "Uttar Shunya Aahe.",
+                "english": "The answer is zero.",
+                "audio": "u6l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u6l3w1",
+            "marathi": "अकरा",
+            "transliteration": "Akra",
+            "english": "Eleven",
+            "emoji": "1️⃣",
+            "audio": "u6l3w1.mp3",
+            "examples": [
+              {
+                "id": "u6l3w1_ex1",
+                "marathi": "अकरा वाजले.",
+                "transliteration": "Akra Vajle.",
+                "english": "It's eleven o'clock.",
+                "audio": "u6l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l3w2",
+            "marathi": "बारा",
+            "transliteration": "Bara",
+            "english": "Twelve",
+            "emoji": "1️⃣",
+            "audio": "u6l3w2.mp3",
+            "examples": [
+              {
+                "id": "u6l3w2_ex1",
+                "marathi": "बारा वाजता जेवण.",
+                "transliteration": "Bara Vajta Jevan.",
+                "english": "Lunch at twelve.",
+                "audio": "u6l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l3w3",
+            "marathi": "वीस",
+            "transliteration": "Vees",
+            "english": "Twenty",
+            "emoji": "2️⃣",
+            "audio": "u6l3w3.mp3",
+            "examples": [
+              {
+                "id": "u6l3w3_ex1",
+                "marathi": "माझे वय वीस आहे.",
+                "transliteration": "Maze Vay Vees Aahe.",
+                "english": "My age is twenty.",
+                "audio": "u6l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l3w4",
+            "marathi": "तीस",
+            "transliteration": "Tees",
+            "english": "Thirty",
+            "emoji": "3️⃣",
+            "audio": "u6l3w4.mp3",
+            "examples": [
+              {
+                "id": "u6l3w4_ex1",
+                "marathi": "तीस मिनिटे लागतील.",
+                "transliteration": "Tees Minite Laagteel.",
+                "english": "It will take thirty minutes.",
+                "audio": "u6l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u6l4w1",
+            "marathi": "पन्नास",
+            "transliteration": "Pannas",
+            "english": "Fifty",
+            "emoji": "5️⃣",
+            "audio": "u6l4w1.mp3",
+            "examples": [
+              {
+                "id": "u6l4w1_ex1",
+                "marathi": "पन्नास रुपये द्या.",
+                "transliteration": "Pannas Rupaye Dya.",
+                "english": "Give fifty rupees.",
+                "audio": "u6l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l4w2",
+            "marathi": "शंभर",
+            "transliteration": "Shambhar",
+            "english": "Hundred",
+            "emoji": "💯",
+            "audio": "u6l4w2.mp3",
+            "examples": [
+              {
+                "id": "u6l4w2_ex1",
+                "marathi": "शंभर टक्के बरोबर.",
+                "transliteration": "Shambhar Takke Barobar.",
+                "english": "Hundred percent correct.",
+                "audio": "u6l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l4w3",
+            "marathi": "पहिला",
+            "transliteration": "Pahila",
+            "english": "First",
+            "emoji": "🥇",
+            "audio": "u6l4w3.mp3",
+            "examples": [
+              {
+                "id": "u6l4w3_ex1",
+                "marathi": "तो पहिला आला.",
+                "transliteration": "To Pahila Aala.",
+                "english": "He came first.",
+                "audio": "u6l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u6l4w4",
+            "marathi": "शेवटचा",
+            "transliteration": "Shevatcha",
+            "english": "Last",
+            "emoji": "🏁",
+            "audio": "u6l4w4.mp3",
+            "examples": [
+              {
+                "id": "u6l4w4_ex1",
+                "marathi": "हा शेवटचा प्रश्न आहे.",
+                "transliteration": "Ha Shevatcha Prashna Aahe.",
+                "english": "This is the last question.",
+                "audio": "u6l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 12,
+    "title": "Where Is It",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u12l1w1",
+            "marathi": "ते कुठे आहे?",
+            "transliteration": "Te Kuthe Aahe?",
+            "english": "Where is it?",
+            "emoji": "❓",
+            "audio": "u12l1w1.mp3",
+            "examples": [
+              {
+                "id": "u12l1w1_ex1",
+                "marathi": "स्टेशन ते कुठे आहे?",
+                "transliteration": "Station Te Kuthe Aahe?",
+                "english": "Where is the station?",
+                "audio": "u12l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l1w2",
+            "marathi": "सरळ जा",
+            "transliteration": "Saral Ja",
+            "english": "Go straight",
+            "emoji": "⬆️",
+            "audio": "u12l1w2.mp3",
+            "examples": [
+              {
+                "id": "u12l1w2_ex1",
+                "marathi": "सरळ जा, मग डावीकडे वळा.",
+                "transliteration": "Saral Ja, Mag Davikade Vala.",
+                "english": "Go straight, then turn left.",
+                "audio": "u12l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l1w3",
+            "marathi": "डावीकडे वळा",
+            "transliteration": "Davikade Vala",
+            "english": "Turn left",
+            "emoji": "⬅️",
+            "audio": "u12l1w3.mp3",
+            "examples": [
+              {
+                "id": "u12l1w3_ex1",
+                "marathi": "पुढे डावीकडे वळा.",
+                "transliteration": "Pudhe Davikade Vala.",
+                "english": "Turn left ahead.",
+                "audio": "u12l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l1w4",
+            "marathi": "उजवीकडे वळा",
+            "transliteration": "Ujavikade Vala",
+            "english": "Turn right",
+            "emoji": "➡️",
+            "audio": "u12l1w4.mp3",
+            "examples": [
+              {
+                "id": "u12l1w4_ex1",
+                "marathi": "इथून उजवीकडे वळा.",
+                "transliteration": "Ithun Ujavikade Vala.",
+                "english": "Turn right from here.",
+                "audio": "u12l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u12l2w1",
+            "marathi": "जवळ",
+            "transliteration": "Javal",
+            "english": "Near",
+            "emoji": "📍",
+            "audio": "u12l2w1.mp3",
+            "examples": [
+              {
+                "id": "u12l2w1_ex1",
+                "marathi": "दुकान इथून जवळ आहे.",
+                "transliteration": "Dukaan Ithun Javal Aahe.",
+                "english": "The shop is near from here.",
+                "audio": "u12l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l2w2",
+            "marathi": "लांब",
+            "transliteration": "Lamb",
+            "english": "Far",
+            "emoji": "🛣️",
+            "audio": "u12l2w2.mp3",
+            "examples": [
+              {
+                "id": "u12l2w2_ex1",
+                "marathi": "स्टेशन इथून लांब आहे.",
+                "transliteration": "Station Ithun Lamb Aahe.",
+                "english": "The station is far from here.",
+                "audio": "u12l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l2w3",
+            "marathi": "इथे",
+            "transliteration": "Ithe",
+            "english": "Here",
+            "emoji": "📌",
+            "audio": "u12l2w3.mp3",
+            "examples": [
+              {
+                "id": "u12l2w3_ex1",
+                "marathi": "इथे थांबा.",
+                "transliteration": "Ithe Thamba.",
+                "english": "Stop here.",
+                "audio": "u12l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l2w4",
+            "marathi": "तिथे",
+            "transliteration": "Tithe",
+            "english": "There",
+            "emoji": "📌",
+            "audio": "u12l2w4.mp3",
+            "examples": [
+              {
+                "id": "u12l2w4_ex1",
+                "marathi": "तिथे बघा.",
+                "transliteration": "Tithe Bagha.",
+                "english": "Look there.",
+                "audio": "u12l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u12l3w1",
+            "marathi": "रस्ता दाखवा",
+            "transliteration": "Rasta Dakhva",
+            "english": "Show me the way",
+            "emoji": "🗺️",
+            "audio": "u12l3w1.mp3",
+            "examples": [
+              {
+                "id": "u12l3w1_ex1",
+                "marathi": "कृपया रस्ता दाखवा.",
+                "transliteration": "Krupaya Rasta Dakhva.",
+                "english": "Please show me the way.",
+                "audio": "u12l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l3w2",
+            "marathi": "हरवलो आहे",
+            "transliteration": "Harvalo Aahe",
+            "english": "I am lost",
+            "emoji": "😟",
+            "audio": "u12l3w2.mp3",
+            "examples": [
+              {
+                "id": "u12l3w2_ex1",
+                "marathi": "माफ करा, मी हरवलो आहे.",
+                "transliteration": "Maaf Kara, Mi Harvalo Aahe.",
+                "english": "Sorry, I am lost.",
+                "audio": "u12l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l3w3",
+            "marathi": "नकाशा हवा",
+            "transliteration": "Nakasha Hava",
+            "english": "I need a map",
+            "emoji": "🗺️",
+            "audio": "u12l3w3.mp3",
+            "examples": [
+              {
+                "id": "u12l3w3_ex1",
+                "marathi": "मला एक नकाशा हवा.",
+                "transliteration": "Mala Ek Nakasha Hava.",
+                "english": "I need a map.",
+                "audio": "u12l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l3w4",
+            "marathi": "किती लांब आहे?",
+            "transliteration": "Kiti Lamb Aahe?",
+            "english": "How far is it?",
+            "emoji": "❓",
+            "audio": "u12l3w4.mp3",
+            "examples": [
+              {
+                "id": "u12l3w4_ex1",
+                "marathi": "स्टेशन किती लांब आहे?",
+                "transliteration": "Station Kiti Lamb Aahe?",
+                "english": "How far is the station?",
+                "audio": "u12l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u12l4w1",
+            "marathi": "चालत जाता येते का?",
+            "transliteration": "Chalat Jata Yete Ka?",
+            "english": "Can I walk there?",
+            "emoji": "🚶",
+            "audio": "u12l4w1.mp3",
+            "examples": [
+              {
+                "id": "u12l4w1_ex1",
+                "marathi": "तिथे चालत जाता येते का?",
+                "transliteration": "Tithe Chalat Jata Yete Ka?",
+                "english": "Can I walk there?",
+                "audio": "u12l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l4w2",
+            "marathi": "रिक्षा घ्या",
+            "transliteration": "Rickshaw Ghya",
+            "english": "Take a rickshaw",
+            "emoji": "🛺",
+            "audio": "u12l4w2.mp3",
+            "examples": [
+              {
+                "id": "u12l4w2_ex1",
+                "marathi": "रिक्षा घ्या, जवळ आहे.",
+                "transliteration": "Rickshaw Ghya, Javal Aahe.",
+                "english": "Take a rickshaw, it's near.",
+                "audio": "u12l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l4w3",
+            "marathi": "कोपऱ्यावर",
+            "transliteration": "Koparyawar",
+            "english": "At the corner",
+            "emoji": "📍",
+            "audio": "u12l4w3.mp3",
+            "examples": [
+              {
+                "id": "u12l4w3_ex1",
+                "marathi": "दुकान कोपऱ्यावर आहे.",
+                "transliteration": "Dukaan Koparyawar Aahe.",
+                "english": "The shop is at the corner.",
+                "audio": "u12l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u12l4w4",
+            "marathi": "समोर",
+            "transliteration": "Samor",
+            "english": "In front",
+            "emoji": "👀",
+            "audio": "u12l4w4.mp3",
+            "examples": [
+              {
+                "id": "u12l4w4_ex1",
+                "marathi": "बँक समोर आहे.",
+                "transliteration": "Bank Samor Aahe.",
+                "english": "The bank is in front.",
+                "audio": "u12l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

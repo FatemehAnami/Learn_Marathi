@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 10,
+    "title": "In the Cafe",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u10l1w1",
+            "marathi": "चहा",
+            "transliteration": "Chaha",
+            "english": "Tea",
+            "emoji": "🍵",
+            "audio": "u10l1w1.mp3",
+            "examples": [
+              {
+                "id": "u10l1w1_ex1",
+                "marathi": "मला एक चहा द्या.",
+                "transliteration": "Mala Ek Chaha Dya.",
+                "english": "Give me a tea.",
+                "audio": "u10l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l1w2",
+            "marathi": "कॉफी",
+            "transliteration": "Coffee",
+            "english": "Coffee",
+            "emoji": "☕",
+            "audio": "u10l1w2.mp3",
+            "examples": [
+              {
+                "id": "u10l1w2_ex1",
+                "marathi": "मला कॉफी आवडते.",
+                "transliteration": "Mala Coffee Aavadte.",
+                "english": "I like coffee.",
+                "audio": "u10l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l1w3",
+            "marathi": "बिल द्या",
+            "transliteration": "Bill Dya",
+            "english": "Give the bill",
+            "emoji": "🧾",
+            "audio": "u10l1w3.mp3",
+            "examples": [
+              {
+                "id": "u10l1w3_ex1",
+                "marathi": "कृपया बिल द्या.",
+                "transliteration": "Krupaya Bill Dya.",
+                "english": "Please give the bill.",
+                "audio": "u10l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l1w4",
+            "marathi": "एक कप चहा",
+            "transliteration": "Ek Cup Chaha",
+            "english": "One cup of tea",
+            "emoji": "🍵",
+            "audio": "u10l1w4.mp3",
+            "examples": [
+              {
+                "id": "u10l1w4_ex1",
+                "marathi": "मला एक कप चहा हवा.",
+                "transliteration": "Mala Ek Cup Chaha Hava.",
+                "english": "I want one cup of tea.",
+                "audio": "u10l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u10l2w1",
+            "marathi": "साखर",
+            "transliteration": "Sakhar",
+            "english": "Sugar",
+            "emoji": "🍚",
+            "audio": "u10l2w1.mp3",
+            "examples": [
+              {
+                "id": "u10l2w1_ex1",
+                "marathi": "साखर कमी घाला.",
+                "transliteration": "Sakhar Kami Ghala.",
+                "english": "Add less sugar.",
+                "audio": "u10l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l2w2",
+            "marathi": "थंड पाणी",
+            "transliteration": "Thand Pani",
+            "english": "Cold water",
+            "emoji": "🧊",
+            "audio": "u10l2w2.mp3",
+            "examples": [
+              {
+                "id": "u10l2w2_ex1",
+                "marathi": "मला थंड पाणी द्या.",
+                "transliteration": "Mala Thand Pani Dya.",
+                "english": "Give me cold water.",
+                "audio": "u10l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l2w3",
+            "marathi": "नाश्ता",
+            "transliteration": "Nashta",
+            "english": "Breakfast / snack",
+            "emoji": "🥐",
+            "audio": "u10l2w3.mp3",
+            "examples": [
+              {
+                "id": "u10l2w3_ex1",
+                "marathi": "नाश्ता तयार आहे.",
+                "transliteration": "Nashta Tayar Aahe.",
+                "english": "Breakfast is ready.",
+                "audio": "u10l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l2w4",
+            "marathi": "मेनू दाखवा",
+            "transliteration": "Menu Dakhva",
+            "english": "Show the menu",
+            "emoji": "📋",
+            "audio": "u10l2w4.mp3",
+            "examples": [
+              {
+                "id": "u10l2w4_ex1",
+                "marathi": "कृपया मेनू दाखवा.",
+                "transliteration": "Krupaya Menu Dakhva.",
+                "english": "Please show the menu.",
+                "audio": "u10l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u10l3w1",
+            "marathi": "दूध",
+            "transliteration": "Dudh",
+            "english": "Milk",
+            "emoji": "🥛",
+            "audio": "u10l3w1.mp3",
+            "examples": [
+              {
+                "id": "u10l3w1_ex1",
+                "marathi": "मला दुधाशिवाय चहा हवा.",
+                "transliteration": "Mala Dudhashivay Chaha Hava.",
+                "english": "I want tea without milk.",
+                "audio": "u10l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l3w2",
+            "marathi": "बिस्किट",
+            "transliteration": "Biscuit",
+            "english": "Biscuit",
+            "emoji": "🍪",
+            "audio": "u10l3w2.mp3",
+            "examples": [
+              {
+                "id": "u10l3w2_ex1",
+                "marathi": "चहासोबत बिस्किट द्या.",
+                "transliteration": "Chahasobat Biscuit Dya.",
+                "english": "Give biscuits with the tea.",
+                "audio": "u10l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l3w3",
+            "marathi": "सँडविच",
+            "transliteration": "Sandwich",
+            "english": "Sandwich",
+            "emoji": "🥪",
+            "audio": "u10l3w3.mp3",
+            "examples": [
+              {
+                "id": "u10l3w3_ex1",
+                "marathi": "मला एक सँडविच हवे.",
+                "transliteration": "Mala Ek Sandwich Hava.",
+                "english": "I want a sandwich.",
+                "audio": "u10l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l3w4",
+            "marathi": "जागा आहे का?",
+            "transliteration": "Jaga Aahe Ka?",
+            "english": "Is there a seat?",
+            "emoji": "🪑",
+            "audio": "u10l3w4.mp3",
+            "examples": [
+              {
+                "id": "u10l3w4_ex1",
+                "marathi": "इथे जागा आहे का?",
+                "transliteration": "Ithe Jaga Aahe Ka?",
+                "english": "Is there a seat here?",
+                "audio": "u10l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u10l4w1",
+            "marathi": "पार्सल द्या",
+            "transliteration": "Parcel Dya",
+            "english": "Give it to go",
+            "emoji": "🥡",
+            "audio": "u10l4w1.mp3",
+            "examples": [
+              {
+                "id": "u10l4w1_ex1",
+                "marathi": "कृपया पार्सल द्या.",
+                "transliteration": "Krupaya Parcel Dya.",
+                "english": "Please give it to go.",
+                "audio": "u10l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l4w2",
+            "marathi": "रोख की कार्ड?",
+            "transliteration": "Rokh Ki Card?",
+            "english": "Cash or card?",
+            "emoji": "💳",
+            "audio": "u10l4w2.mp3",
+            "examples": [
+              {
+                "id": "u10l4w2_ex1",
+                "marathi": "रोख की कार्ड, कसे द्याल?",
+                "transliteration": "Rokh Ki Card, Kase Dyal?",
+                "english": "Cash or card, how will you pay?",
+                "audio": "u10l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l4w3",
+            "marathi": "सुट्टे पैसे",
+            "transliteration": "Sutte Paise",
+            "english": "Change (money)",
+            "emoji": "💵",
+            "audio": "u10l4w3.mp3",
+            "examples": [
+              {
+                "id": "u10l4w3_ex1",
+                "marathi": "सुट्टे पैसे आहेत का?",
+                "transliteration": "Sutte Paise Aahet Ka?",
+                "english": "Do you have change?",
+                "audio": "u10l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u10l4w4",
+            "marathi": "पुन्हा या",
+            "transliteration": "Punha Ya",
+            "english": "Come again",
+            "emoji": "🙏",
+            "audio": "u10l4w4.mp3",
+            "examples": [
+              {
+                "id": "u10l4w4_ex1",
+                "marathi": "धन्यवाद, पुन्हा या!",
+                "transliteration": "Dhanyavad, Punha Ya!",
+                "english": "Thank you, come again!",
+                "audio": "u10l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

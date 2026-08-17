@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 2,
+    "title": "Basic Phrases",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u2l1w1",
+            "marathi": "होय",
+            "transliteration": "Hoy",
+            "english": "Yes",
+            "emoji": "✅",
+            "audio": "u2l1w1.mp3",
+            "examples": [
+              {
+                "id": "u2l1w1_ex1",
+                "marathi": "होय, मला आवडते.",
+                "transliteration": "Hoy, Mala Aavadte.",
+                "english": "Yes, I like it.",
+                "audio": "u2l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l1w2",
+            "marathi": "नाही",
+            "transliteration": "Nahi",
+            "english": "No",
+            "emoji": "❌",
+            "audio": "u2l1w2.mp3",
+            "examples": [
+              {
+                "id": "u2l1w2_ex1",
+                "marathi": "नाही, धन्यवाद.",
+                "transliteration": "Nahi, Dhanyavad.",
+                "english": "No, thank you.",
+                "audio": "u2l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l1w3",
+            "marathi": "कृपया",
+            "transliteration": "Krupaya",
+            "english": "Please",
+            "emoji": "🙏",
+            "audio": "u2l1w3.mp3",
+            "examples": [
+              {
+                "id": "u2l1w3_ex1",
+                "marathi": "कृपया मदत करा.",
+                "transliteration": "Krupaya Madat Kara.",
+                "english": "Please help.",
+                "audio": "u2l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l1w4",
+            "marathi": "मला समजले नाही",
+            "transliteration": "Mala Samajle Nahi",
+            "english": "I don't understand",
+            "emoji": "😕",
+            "audio": "u2l1w4.mp3",
+            "examples": [
+              {
+                "id": "u2l1w4_ex1",
+                "marathi": "माफ करा, मला समजले नाही.",
+                "transliteration": "Maaf Kara, Mala Samajle Nahi.",
+                "english": "Sorry, I don't understand.",
+                "audio": "u2l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u2l2w1",
+            "marathi": "पुन्हा सांगा",
+            "transliteration": "Punha Sanga",
+            "english": "Say it again",
+            "emoji": "🔁",
+            "audio": "u2l2w1.mp3",
+            "examples": [
+              {
+                "id": "u2l2w1_ex1",
+                "marathi": "कृपया पुन्हा सांगा.",
+                "transliteration": "Krupaya Punha Sanga.",
+                "english": "Please say it again.",
+                "audio": "u2l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l2w2",
+            "marathi": "मदत करा",
+            "transliteration": "Madat Kara",
+            "english": "Help me",
+            "emoji": "🆘",
+            "audio": "u2l2w2.mp3",
+            "examples": [
+              {
+                "id": "u2l2w2_ex1",
+                "marathi": "मला मदत करा, कृपया.",
+                "transliteration": "Mala Madat Kara, Krupaya.",
+                "english": "Help me, please.",
+                "audio": "u2l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l2w3",
+            "marathi": "थांबा",
+            "transliteration": "Thamba",
+            "english": "Wait",
+            "emoji": "✋",
+            "audio": "u2l2w3.mp3",
+            "examples": [
+              {
+                "id": "u2l2w3_ex1",
+                "marathi": "थांबा, मी येतो.",
+                "transliteration": "Thamba, Mi Yeto.",
+                "english": "Wait, I'm coming.",
+                "audio": "u2l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l2w4",
+            "marathi": "चला",
+            "transliteration": "Chala",
+            "english": "Let's go",
+            "emoji": "🚶",
+            "audio": "u2l2w4.mp3",
+            "examples": [
+              {
+                "id": "u2l2w4_ex1",
+                "marathi": "चला, उशीर होतोय.",
+                "transliteration": "Chala, Usheer Hotoy.",
+                "english": "Let's go, it's getting late.",
+                "audio": "u2l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u2l3w1",
+            "marathi": "जरूर",
+            "transliteration": "Jarur",
+            "english": "Sure",
+            "emoji": "👍",
+            "audio": "u2l3w1.mp3",
+            "examples": [
+              {
+                "id": "u2l3w1_ex1",
+                "marathi": "जरूर, मी मदत करतो.",
+                "transliteration": "Jarur, Mi Madat Karto.",
+                "english": "Sure, I will help.",
+                "audio": "u2l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l3w2",
+            "marathi": "ठीक आहे का?",
+            "transliteration": "Theek Aahe Ka?",
+            "english": "Is that okay?",
+            "emoji": "❓",
+            "audio": "u2l3w2.mp3",
+            "examples": [
+              {
+                "id": "u2l3w2_ex1",
+                "marathi": "हे ठीक आहे का?",
+                "transliteration": "He Theek Aahe Ka?",
+                "english": "Is this okay?",
+                "audio": "u2l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l3w3",
+            "marathi": "काही हरकत नाही",
+            "transliteration": "Kahi Harkat Nahi",
+            "english": "No problem",
+            "emoji": "👌",
+            "audio": "u2l3w3.mp3",
+            "examples": [
+              {
+                "id": "u2l3w3_ex1",
+                "marathi": "काही हरकत नाही, आराम करा.",
+                "transliteration": "Kahi Harkat Nahi, Aaram Kara.",
+                "english": "No problem, take it easy.",
+                "audio": "u2l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l3w4",
+            "marathi": "लक्ष द्या",
+            "transliteration": "Laksha Dya",
+            "english": "Pay attention",
+            "emoji": "👀",
+            "audio": "u2l3w4.mp3",
+            "examples": [
+              {
+                "id": "u2l3w4_ex1",
+                "marathi": "कृपया लक्ष द्या.",
+                "transliteration": "Krupaya Laksha Dya.",
+                "english": "Please pay attention.",
+                "audio": "u2l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u2l4w1",
+            "marathi": "समजले",
+            "transliteration": "Samajle",
+            "english": "Understood",
+            "emoji": "✅",
+            "audio": "u2l4w1.mp3",
+            "examples": [
+              {
+                "id": "u2l4w1_ex1",
+                "marathi": "हो, समजले.",
+                "transliteration": "Ho, Samajle.",
+                "english": "Yes, understood.",
+                "audio": "u2l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l4w2",
+            "marathi": "एक मिनिट",
+            "transliteration": "Ek Minit",
+            "english": "One minute",
+            "emoji": "⏱️",
+            "audio": "u2l4w2.mp3",
+            "examples": [
+              {
+                "id": "u2l4w2_ex1",
+                "marathi": "एक मिनिट थांबा.",
+                "transliteration": "Ek Minit Thamba.",
+                "english": "Wait one minute.",
+                "audio": "u2l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l4w3",
+            "marathi": "नक्की",
+            "transliteration": "Nakki",
+            "english": "Definitely",
+            "emoji": "💯",
+            "audio": "u2l4w3.mp3",
+            "examples": [
+              {
+                "id": "u2l4w3_ex1",
+                "marathi": "मी नक्की येईन.",
+                "transliteration": "Mi Nakki Yein.",
+                "english": "I will definitely come.",
+                "audio": "u2l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u2l4w4",
+            "marathi": "पुन्हा माफ करा",
+            "transliteration": "Punha Maaf Kara",
+            "english": "Sorry again",
+            "emoji": "😅",
+            "audio": "u2l4w4.mp3",
+            "examples": [
+              {
+                "id": "u2l4w4_ex1",
+                "marathi": "पुन्हा माफ करा, मी विसरलो.",
+                "transliteration": "Punha Maaf Kara, Mi Visarlo.",
+                "english": "Sorry again, I forgot.",
+                "audio": "u2l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

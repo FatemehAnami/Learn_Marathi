@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 11,
+    "title": "Eating Out",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u11l1w1",
+            "marathi": "टेबल बुक करा",
+            "transliteration": "Table Book Kara",
+            "english": "Book a table",
+            "emoji": "🪑",
+            "audio": "u11l1w1.mp3",
+            "examples": [
+              {
+                "id": "u11l1w1_ex1",
+                "marathi": "दोघांसाठी टेबल बुक करा.",
+                "transliteration": "Doghansathi Table Book Kara.",
+                "english": "Book a table for two.",
+                "audio": "u11l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l1w2",
+            "marathi": "ऑर्डर द्या",
+            "transliteration": "Order Dya",
+            "english": "Place an order",
+            "emoji": "🧑‍🍳",
+            "audio": "u11l1w2.mp3",
+            "examples": [
+              {
+                "id": "u11l1w2_ex1",
+                "marathi": "आम्ही ऑर्डर द्यायला तयार आहोत.",
+                "transliteration": "Aamhi Order Dyayla Tayar Aahot.",
+                "english": "We are ready to order.",
+                "audio": "u11l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l1w3",
+            "marathi": "पोट भरले",
+            "transliteration": "Pot Bharle",
+            "english": "I'm full",
+            "emoji": "🙌",
+            "audio": "u11l1w3.mp3",
+            "examples": [
+              {
+                "id": "u11l1w3_ex1",
+                "marathi": "माझे पोट भरले आहे.",
+                "transliteration": "Maze Pot Bharle Aahe.",
+                "english": "I am full.",
+                "audio": "u11l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l1w4",
+            "marathi": "खूप छान होते",
+            "transliteration": "Khup Chaan Hote",
+            "english": "It was very nice",
+            "emoji": "😍",
+            "audio": "u11l1w4.mp3",
+            "examples": [
+              {
+                "id": "u11l1w4_ex1",
+                "marathi": "जेवण खूप छान होते.",
+                "transliteration": "Jevan Khup Chaan Hote.",
+                "english": "The meal was very nice.",
+                "audio": "u11l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u11l2w1",
+            "marathi": "थोडे अजून",
+            "transliteration": "Thode Ajun",
+            "english": "A little more",
+            "emoji": "➕",
+            "audio": "u11l2w1.mp3",
+            "examples": [
+              {
+                "id": "u11l2w1_ex1",
+                "marathi": "मला थोडे अजून हवे.",
+                "transliteration": "Mala Thode Ajun Have.",
+                "english": "I want a little more.",
+                "audio": "u11l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l2w2",
+            "marathi": "चमचा द्या",
+            "transliteration": "Chamcha Dya",
+            "english": "Give a spoon",
+            "emoji": "🥄",
+            "audio": "u11l2w2.mp3",
+            "examples": [
+              {
+                "id": "u11l2w2_ex1",
+                "marathi": "कृपया चमचा द्या.",
+                "transliteration": "Krupaya Chamcha Dya.",
+                "english": "Please give a spoon.",
+                "audio": "u11l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l2w3",
+            "marathi": "शाकाहारी",
+            "transliteration": "Shakahari",
+            "english": "Vegetarian",
+            "emoji": "🥦",
+            "audio": "u11l2w3.mp3",
+            "examples": [
+              {
+                "id": "u11l2w3_ex1",
+                "marathi": "मी शाकाहारी आहे.",
+                "transliteration": "Mi Shakahari Aahe.",
+                "english": "I am vegetarian.",
+                "audio": "u11l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l2w4",
+            "marathi": "मांसाहारी",
+            "transliteration": "Mansahari",
+            "english": "Non-vegetarian",
+            "emoji": "🍗",
+            "audio": "u11l2w4.mp3",
+            "examples": [
+              {
+                "id": "u11l2w4_ex1",
+                "marathi": "तो मांसाहारी जेवण खातो.",
+                "transliteration": "To Mansahari Jevan Khato.",
+                "english": "He eats non-vegetarian food.",
+                "audio": "u11l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u11l3w1",
+            "marathi": "काटा द्या",
+            "transliteration": "Kata Dya",
+            "english": "Give a fork",
+            "emoji": "🍴",
+            "audio": "u11l3w1.mp3",
+            "examples": [
+              {
+                "id": "u11l3w1_ex1",
+                "marathi": "कृपया काटा द्या.",
+                "transliteration": "Krupaya Kata Dya.",
+                "english": "Please give a fork.",
+                "audio": "u11l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l3w2",
+            "marathi": "नॅपकिन द्या",
+            "transliteration": "Napkin Dya",
+            "english": "Give a napkin",
+            "emoji": "🧻",
+            "audio": "u11l3w2.mp3",
+            "examples": [
+              {
+                "id": "u11l3w2_ex1",
+                "marathi": "एक नॅपकिन द्या.",
+                "transliteration": "Ek Napkin Dya.",
+                "english": "Give a napkin.",
+                "audio": "u11l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l3w3",
+            "marathi": "हे तिखट आहे का?",
+            "transliteration": "He Tikhat Aahe Ka?",
+            "english": "Is this spicy?",
+            "emoji": "🌶️",
+            "audio": "u11l3w3.mp3",
+            "examples": [
+              {
+                "id": "u11l3w3_ex1",
+                "marathi": "हे तिखट आहे का?",
+                "transliteration": "He Tikhat Aahe Ka?",
+                "english": "Is this spicy?",
+                "audio": "u11l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l3w4",
+            "marathi": "बिल वेगळे करा",
+            "transliteration": "Bill Vegle Kara",
+            "english": "Split the bill",
+            "emoji": "🧾",
+            "audio": "u11l3w4.mp3",
+            "examples": [
+              {
+                "id": "u11l3w4_ex1",
+                "marathi": "बिल वेगळे करा, कृपया.",
+                "transliteration": "Bill Vegle Kara, Krupaya.",
+                "english": "Split the bill, please.",
+                "audio": "u11l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u11l4w1",
+            "marathi": "सर्वात चांगला पदार्थ",
+            "transliteration": "Sarvat Changla Padarth",
+            "english": "The best dish",
+            "emoji": "😋",
+            "audio": "u11l4w1.mp3",
+            "examples": [
+              {
+                "id": "u11l4w1_ex1",
+                "marathi": "इथला सर्वात चांगला पदार्थ कोणता?",
+                "transliteration": "Ithla Sarvat Changla Padarth Konta?",
+                "english": "Which is the best dish here?",
+                "audio": "u11l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l4w2",
+            "marathi": "मी ॲलर्जीक आहे",
+            "transliteration": "Mi Allergic Aahe",
+            "english": "I am allergic",
+            "emoji": "⚠️",
+            "audio": "u11l4w2.mp3",
+            "examples": [
+              {
+                "id": "u11l4w2_ex1",
+                "marathi": "मी शेंगदाण्याला ॲलर्जीक आहे.",
+                "transliteration": "Mi Shengdanyala Allergic Aahe.",
+                "english": "I am allergic to peanuts.",
+                "audio": "u11l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l4w3",
+            "marathi": "जेवण उशिरा आले",
+            "transliteration": "Jevan Ushira Aale",
+            "english": "The food came late",
+            "emoji": "⏰",
+            "audio": "u11l4w3.mp3",
+            "examples": [
+              {
+                "id": "u11l4w3_ex1",
+                "marathi": "आमचे जेवण उशिरा आले.",
+                "transliteration": "Aamche Jevan Ushira Aale.",
+                "english": "Our food came late.",
+                "audio": "u11l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u11l4w4",
+            "marathi": "पुन्हा येऊ",
+            "transliteration": "Punha Yeu",
+            "english": "We'll come again",
+            "emoji": "🙌",
+            "audio": "u11l4w4.mp3",
+            "examples": [
+              {
+                "id": "u11l4w4_ex1",
+                "marathi": "खूप छान, आम्ही पुन्हा येऊ.",
+                "transliteration": "Khup Chaan, Aamhi Punha Yeu.",
+                "english": "Very nice, we'll come again.",
+                "audio": "u11l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

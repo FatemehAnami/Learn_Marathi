@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 3,
+    "title": "Introduction",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u3l1w1",
+            "marathi": "माझे नाव...आहे",
+            "transliteration": "Maze Naav...Aahe",
+            "english": "My name is...",
+            "emoji": "🪪",
+            "audio": "u3l1w1.mp3",
+            "examples": [
+              {
+                "id": "u3l1w1_ex1",
+                "marathi": "माझे नाव राज आहे.",
+                "transliteration": "Maze Naav Raj Aahe.",
+                "english": "My name is Raj.",
+                "audio": "u3l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l1w2",
+            "marathi": "तुझे नाव काय?",
+            "transliteration": "Tuze Naav Kay?",
+            "english": "What's your name?",
+            "emoji": "❓",
+            "audio": "u3l1w2.mp3",
+            "examples": [
+              {
+                "id": "u3l1w2_ex1",
+                "marathi": "तुझे नाव काय आहे?",
+                "transliteration": "Tuze Naav Kay Aahe?",
+                "english": "What is your name?",
+                "audio": "u3l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l1w3",
+            "marathi": "मी भारतातून आहे",
+            "transliteration": "Mi Bharatatun Aahe",
+            "english": "I'm from India",
+            "emoji": "🇮🇳",
+            "audio": "u3l1w3.mp3",
+            "examples": [
+              {
+                "id": "u3l1w3_ex1",
+                "marathi": "मी भारतातून आहे.",
+                "transliteration": "Mi Bharatatun Aahe.",
+                "english": "I am from India.",
+                "audio": "u3l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l1w4",
+            "marathi": "मी विद्यार्थी आहे",
+            "transliteration": "Mi Vidyarthi Aahe",
+            "english": "I'm a student",
+            "emoji": "🎓",
+            "audio": "u3l1w4.mp3",
+            "examples": [
+              {
+                "id": "u3l1w4_ex1",
+                "marathi": "मी विद्यार्थी आहे.",
+                "transliteration": "Mi Vidyarthi Aahe.",
+                "english": "I am a student.",
+                "audio": "u3l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u3l2w1",
+            "marathi": "मी शिक्षक आहे",
+            "transliteration": "Mi Shikshak Aahe",
+            "english": "I'm a teacher",
+            "emoji": "🍎",
+            "audio": "u3l2w1.mp3",
+            "examples": [
+              {
+                "id": "u3l2w1_ex1",
+                "marathi": "मी शाळेत शिक्षक आहे.",
+                "transliteration": "Mi Shaalet Shikshak Aahe.",
+                "english": "I am a teacher at school.",
+                "audio": "u3l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l2w2",
+            "marathi": "तू कुठून आहेस?",
+            "transliteration": "Tu Kuthun Aahes?",
+            "english": "Where are you from?",
+            "emoji": "🌍",
+            "audio": "u3l2w2.mp3",
+            "examples": [
+              {
+                "id": "u3l2w2_ex1",
+                "marathi": "तू कुठून आहेस?",
+                "transliteration": "Tu Kuthun Aahes?",
+                "english": "Where are you from?",
+                "audio": "u3l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l2w3",
+            "marathi": "आनंद झाला",
+            "transliteration": "Anand Zhala",
+            "english": "Nice to meet you",
+            "emoji": "😊",
+            "audio": "u3l2w3.mp3",
+            "examples": [
+              {
+                "id": "u3l2w3_ex1",
+                "marathi": "तुम्हाला भेटून आनंद झाला.",
+                "transliteration": "Tumhala Bhetun Anand Zhala.",
+                "english": "Nice to meet you.",
+                "audio": "u3l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l2w4",
+            "marathi": "माझे वय...आहे",
+            "transliteration": "Maze Vay...Aahe",
+            "english": "My age is...",
+            "emoji": "🎂",
+            "audio": "u3l2w4.mp3",
+            "examples": [
+              {
+                "id": "u3l2w4_ex1",
+                "marathi": "माझे वय वीस आहे.",
+                "transliteration": "Maze Vay Vees Aahe.",
+                "english": "My age is twenty.",
+                "audio": "u3l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u3l3w1",
+            "marathi": "माझा व्यवसाय...आहे",
+            "transliteration": "Maza Vyavsay...Aahe",
+            "english": "My profession is...",
+            "emoji": "💼",
+            "audio": "u3l3w1.mp3",
+            "examples": [
+              {
+                "id": "u3l3w1_ex1",
+                "marathi": "माझा व्यवसाय डॉक्टर आहे.",
+                "transliteration": "Maza Vyavsay Doctor Aahe.",
+                "english": "My profession is doctor.",
+                "audio": "u3l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l3w2",
+            "marathi": "मी इथे राहतो",
+            "transliteration": "Mi Ithe Rahto",
+            "english": "I live here",
+            "emoji": "🏠",
+            "audio": "u3l3w2.mp3",
+            "examples": [
+              {
+                "id": "u3l3w2_ex1",
+                "marathi": "मी पुण्यात राहतो.",
+                "transliteration": "Mi Punyaat Rahto.",
+                "english": "I live in Pune.",
+                "audio": "u3l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l3w3",
+            "marathi": "तुझे कुटुंब कसे आहे?",
+            "transliteration": "Tuze Kutumb Kase Aahe?",
+            "english": "How is your family?",
+            "emoji": "👪",
+            "audio": "u3l3w3.mp3",
+            "examples": [
+              {
+                "id": "u3l3w3_ex1",
+                "marathi": "तुझे कुटुंब कसे आहे?",
+                "transliteration": "Tuze Kutumb Kase Aahe?",
+                "english": "How is your family?",
+                "audio": "u3l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l3w4",
+            "marathi": "मला मराठी येते",
+            "transliteration": "Mala Marathi Yete",
+            "english": "I know Marathi",
+            "emoji": "🗣️",
+            "audio": "u3l3w4.mp3",
+            "examples": [
+              {
+                "id": "u3l3w4_ex1",
+                "marathi": "मला थोडी मराठी येते.",
+                "transliteration": "Mala Thodi Marathi Yete.",
+                "english": "I know a little Marathi.",
+                "audio": "u3l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u3l4w1",
+            "marathi": "तू विवाहित आहेस का?",
+            "transliteration": "Tu Vivahit Aahes Ka?",
+            "english": "Are you married?",
+            "emoji": "💍",
+            "audio": "u3l4w1.mp3",
+            "examples": [
+              {
+                "id": "u3l4w1_ex1",
+                "marathi": "तू विवाहित आहेस का?",
+                "transliteration": "Tu Vivahit Aahes Ka?",
+                "english": "Are you married?",
+                "audio": "u3l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l4w2",
+            "marathi": "मी अविवाहित आहे",
+            "transliteration": "Mi Avivahit Aahe",
+            "english": "I am unmarried",
+            "emoji": "🙋",
+            "audio": "u3l4w2.mp3",
+            "examples": [
+              {
+                "id": "u3l4w2_ex1",
+                "marathi": "मी अजून अविवाहित आहे.",
+                "transliteration": "Mi Ajun Avivahit Aahe.",
+                "english": "I am still unmarried.",
+                "audio": "u3l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l4w3",
+            "marathi": "माझा फोन नंबर...",
+            "transliteration": "Maza Phone Number...",
+            "english": "My phone number is...",
+            "emoji": "📱",
+            "audio": "u3l4w3.mp3",
+            "examples": [
+              {
+                "id": "u3l4w3_ex1",
+                "marathi": "माझा फोन नंबर हा आहे.",
+                "transliteration": "Maza Phone Number Ha Aahe.",
+                "english": "My phone number is this.",
+                "audio": "u3l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u3l4w4",
+            "marathi": "संपर्कात राहूया",
+            "transliteration": "Sampark-aat Rahuya",
+            "english": "Let's stay in touch",
+            "emoji": "🤝",
+            "audio": "u3l4w4.mp3",
+            "examples": [
+              {
+                "id": "u3l4w4_ex1",
+                "marathi": "चला, संपर्कात राहूया.",
+                "transliteration": "Chala, Sampark-aat Rahuya.",
+                "english": "Come on, let's stay in touch.",
+                "audio": "u3l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

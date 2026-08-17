@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 9,
+    "title": "Vegetables & Fruits",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u9l1w1",
+            "marathi": "बटाटा",
+            "transliteration": "Batata",
+            "english": "Potato",
+            "emoji": "🥔",
+            "audio": "u9l1w1.mp3",
+            "examples": [
+              {
+                "id": "u9l1w1_ex1",
+                "marathi": "बटाटा भाजी छान लागते.",
+                "transliteration": "Batata Bhaji Chaan Laagte.",
+                "english": "Potato curry tastes nice.",
+                "audio": "u9l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l1w2",
+            "marathi": "टोमॅटो",
+            "transliteration": "Tomato",
+            "english": "Tomato",
+            "emoji": "🍅",
+            "audio": "u9l1w2.mp3",
+            "examples": [
+              {
+                "id": "u9l1w2_ex1",
+                "marathi": "मला टोमॅटो हवे आहेत.",
+                "transliteration": "Mala Tomato Have Aahet.",
+                "english": "I want tomatoes.",
+                "audio": "u9l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l1w3",
+            "marathi": "कांदा",
+            "transliteration": "Kanda",
+            "english": "Onion",
+            "emoji": "🧅",
+            "audio": "u9l1w3.mp3",
+            "examples": [
+              {
+                "id": "u9l1w3_ex1",
+                "marathi": "कांदा चिरून घ्या.",
+                "transliteration": "Kanda Chirun Ghya.",
+                "english": "Chop the onion.",
+                "audio": "u9l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l1w4",
+            "marathi": "आंबा",
+            "transliteration": "Aamba",
+            "english": "Mango",
+            "emoji": "🥭",
+            "audio": "u9l1w4.mp3",
+            "examples": [
+              {
+                "id": "u9l1w4_ex1",
+                "marathi": "उन्हाळ्यात आंबा मिळतो.",
+                "transliteration": "Unhalyaat Aamba Milto.",
+                "english": "Mango is available in summer.",
+                "audio": "u9l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u9l2w1",
+            "marathi": "केळे",
+            "transliteration": "Kele",
+            "english": "Banana",
+            "emoji": "🍌",
+            "audio": "u9l2w1.mp3",
+            "examples": [
+              {
+                "id": "u9l2w1_ex1",
+                "marathi": "मला एक केळे द्या.",
+                "transliteration": "Mala Ek Kele Dya.",
+                "english": "Give me a banana.",
+                "audio": "u9l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l2w2",
+            "marathi": "सफरचंद",
+            "transliteration": "Safarchand",
+            "english": "Apple",
+            "emoji": "🍎",
+            "audio": "u9l2w2.mp3",
+            "examples": [
+              {
+                "id": "u9l2w2_ex1",
+                "marathi": "सफरचंद आरोग्यदायी आहे.",
+                "transliteration": "Safarchand Aarogyadayi Aahe.",
+                "english": "Apple is healthy.",
+                "audio": "u9l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l2w3",
+            "marathi": "द्राक्ष",
+            "transliteration": "Draksha",
+            "english": "Grapes",
+            "emoji": "🍇",
+            "audio": "u9l2w3.mp3",
+            "examples": [
+              {
+                "id": "u9l2w3_ex1",
+                "marathi": "मला द्राक्ष आवडतात.",
+                "transliteration": "Mala Draksha Aavadtaat.",
+                "english": "I like grapes.",
+                "audio": "u9l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l2w4",
+            "marathi": "गाजर",
+            "transliteration": "Gajar",
+            "english": "Carrot",
+            "emoji": "🥕",
+            "audio": "u9l2w4.mp3",
+            "examples": [
+              {
+                "id": "u9l2w4_ex1",
+                "marathi": "गाजर डोळ्यांना चांगले असते.",
+                "transliteration": "Gajar Dolyanna Changle Asate.",
+                "english": "Carrot is good for the eyes.",
+                "audio": "u9l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u9l3w1",
+            "marathi": "कोबी",
+            "transliteration": "Kobi",
+            "english": "Cabbage",
+            "emoji": "🥬",
+            "audio": "u9l3w1.mp3",
+            "examples": [
+              {
+                "id": "u9l3w1_ex1",
+                "marathi": "कोबीची भाजी छान असते.",
+                "transliteration": "Kobichi Bhaji Chaan Asate.",
+                "english": "Cabbage curry is nice.",
+                "audio": "u9l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l3w2",
+            "marathi": "वांगे",
+            "transliteration": "Vange",
+            "english": "Eggplant",
+            "emoji": "🍆",
+            "audio": "u9l3w2.mp3",
+            "examples": [
+              {
+                "id": "u9l3w2_ex1",
+                "marathi": "वांग्याचे भरीत आवडते.",
+                "transliteration": "Vangyache Bharit Aavadte.",
+                "english": "I like eggplant mash.",
+                "audio": "u9l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l3w3",
+            "marathi": "भेंडी",
+            "transliteration": "Bhendi",
+            "english": "Okra",
+            "emoji": "🻑",
+            "audio": "u9l3w3.mp3",
+            "examples": [
+              {
+                "id": "u9l3w3_ex1",
+                "marathi": "भेंडीची भाजी करूया.",
+                "transliteration": "Bhendichi Bhaji Karuya.",
+                "english": "Let's make okra curry.",
+                "audio": "u9l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l3w4",
+            "marathi": "पालक",
+            "transliteration": "Palak",
+            "english": "Spinach",
+            "emoji": "🥬",
+            "audio": "u9l3w4.mp3",
+            "examples": [
+              {
+                "id": "u9l3w4_ex1",
+                "marathi": "पालक आरोग्यासाठी चांगला असतो.",
+                "transliteration": "Palak Aarogyasathi Changla Asto.",
+                "english": "Spinach is good for health.",
+                "audio": "u9l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u9l4w1",
+            "marathi": "संत्रे",
+            "transliteration": "Santre",
+            "english": "Orange",
+            "emoji": "🍊",
+            "audio": "u9l4w1.mp3",
+            "examples": [
+              {
+                "id": "u9l4w1_ex1",
+                "marathi": "संत्रे आंबट-गोड असते.",
+                "transliteration": "Santre Aambat-God Asate.",
+                "english": "Orange is sweet and sour.",
+                "audio": "u9l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l4w2",
+            "marathi": "पपई",
+            "transliteration": "Papai",
+            "english": "Papaya",
+            "emoji": "🥭",
+            "audio": "u9l4w2.mp3",
+            "examples": [
+              {
+                "id": "u9l4w2_ex1",
+                "marathi": "पपई पचनासाठी चांगली असते.",
+                "transliteration": "Papai Pachanasathi Changli Asate.",
+                "english": "Papaya is good for digestion.",
+                "audio": "u9l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l4w3",
+            "marathi": "लिंबू",
+            "transliteration": "Limbu",
+            "english": "Lemon",
+            "emoji": "🍋",
+            "audio": "u9l4w3.mp3",
+            "examples": [
+              {
+                "id": "u9l4w3_ex1",
+                "marathi": "लिंबू पाण्यात पिळा.",
+                "transliteration": "Limbu Panyaat Pila.",
+                "english": "Squeeze lemon in the water.",
+                "audio": "u9l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u9l4w4",
+            "marathi": "अननस",
+            "transliteration": "Ananas",
+            "english": "Pineapple",
+            "emoji": "🍍",
+            "audio": "u9l4w4.mp3",
+            "examples": [
+              {
+                "id": "u9l4w4_ex1",
+                "marathi": "अननस खूप गोड आहे.",
+                "transliteration": "Ananas Khup God Aahe.",
+                "english": "The pineapple is very sweet.",
+                "audio": "u9l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 5,
+    "title": "Numbers & Family",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u5l1w1",
+            "marathi": "एक",
+            "transliteration": "Ek",
+            "english": "One",
+            "emoji": "1️⃣",
+            "audio": "u5l1w1.mp3",
+            "examples": [
+              {
+                "id": "u5l1w1_ex1",
+                "marathi": "मला एक कप चहा हवा.",
+                "transliteration": "Mala Ek Cup Chaha Hava.",
+                "english": "I want one cup of tea.",
+                "audio": "u5l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l1w2",
+            "marathi": "दोन",
+            "transliteration": "Don",
+            "english": "Two",
+            "emoji": "2️⃣",
+            "audio": "u5l1w2.mp3",
+            "examples": [
+              {
+                "id": "u5l1w2_ex1",
+                "marathi": "माझी दोन मुले आहेत.",
+                "transliteration": "Mazi Don Mule Aahet.",
+                "english": "I have two children.",
+                "audio": "u5l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l1w3",
+            "marathi": "तीन",
+            "transliteration": "Teen",
+            "english": "Three",
+            "emoji": "3️⃣",
+            "audio": "u5l1w3.mp3",
+            "examples": [
+              {
+                "id": "u5l1w3_ex1",
+                "marathi": "तीन वाजले आहेत.",
+                "transliteration": "Teen Vajle Aahet.",
+                "english": "It's three o'clock.",
+                "audio": "u5l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l1w4",
+            "marathi": "आई",
+            "transliteration": "Aai",
+            "english": "Mother",
+            "emoji": "👩",
+            "audio": "u5l1w4.mp3",
+            "examples": [
+              {
+                "id": "u5l1w4_ex1",
+                "marathi": "माझी आई घरी आहे.",
+                "transliteration": "Mazi Aai Ghari Aahe.",
+                "english": "My mother is at home.",
+                "audio": "u5l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u5l2w1",
+            "marathi": "बाबा",
+            "transliteration": "Baba",
+            "english": "Father",
+            "emoji": "👨",
+            "audio": "u5l2w1.mp3",
+            "examples": [
+              {
+                "id": "u5l2w1_ex1",
+                "marathi": "बाबा कामावर गेले.",
+                "transliteration": "Baba Kaamavar Gele.",
+                "english": "Father went to work.",
+                "audio": "u5l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l2w2",
+            "marathi": "भाऊ",
+            "transliteration": "Bhau",
+            "english": "Brother",
+            "emoji": "👦",
+            "audio": "u5l2w2.mp3",
+            "examples": [
+              {
+                "id": "u5l2w2_ex1",
+                "marathi": "माझा भाऊ शाळेत आहे.",
+                "transliteration": "Maza Bhau Shaalet Aahe.",
+                "english": "My brother is at school.",
+                "audio": "u5l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l2w3",
+            "marathi": "बहीण",
+            "transliteration": "Bahin",
+            "english": "Sister",
+            "emoji": "👧",
+            "audio": "u5l2w3.mp3",
+            "examples": [
+              {
+                "id": "u5l2w3_ex1",
+                "marathi": "माझी बहीण मोठी आहे.",
+                "transliteration": "Mazi Bahin Moti Aahe.",
+                "english": "My sister is older.",
+                "audio": "u5l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l2w4",
+            "marathi": "आजी",
+            "transliteration": "Aaji",
+            "english": "Grandmother",
+            "emoji": "👵",
+            "audio": "u5l2w4.mp3",
+            "examples": [
+              {
+                "id": "u5l2w4_ex1",
+                "marathi": "आजी गोष्ट सांगते.",
+                "transliteration": "Aaji Gosht Sangte.",
+                "english": "Grandmother tells a story.",
+                "audio": "u5l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u5l3w1",
+            "marathi": "आजोबा",
+            "transliteration": "Ajoba",
+            "english": "Grandfather",
+            "emoji": "👴",
+            "audio": "u5l3w1.mp3",
+            "examples": [
+              {
+                "id": "u5l3w1_ex1",
+                "marathi": "आजोबा बागेत आहेत.",
+                "transliteration": "Ajoba Baaget Aahet.",
+                "english": "Grandfather is in the garden.",
+                "audio": "u5l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l3w2",
+            "marathi": "काका",
+            "transliteration": "Kaka",
+            "english": "Uncle (paternal)",
+            "emoji": "👨",
+            "audio": "u5l3w2.mp3",
+            "examples": [
+              {
+                "id": "u5l3w2_ex1",
+                "marathi": "काका शहरातून आले.",
+                "transliteration": "Kaka Shaharatun Aale.",
+                "english": "Uncle came from the city.",
+                "audio": "u5l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l3w3",
+            "marathi": "मामा",
+            "transliteration": "Mama",
+            "english": "Uncle (maternal)",
+            "emoji": "👨",
+            "audio": "u5l3w3.mp3",
+            "examples": [
+              {
+                "id": "u5l3w3_ex1",
+                "marathi": "मामा गावी राहतात.",
+                "transliteration": "Mama Gaavi Rahtaat.",
+                "english": "Uncle lives in the village.",
+                "audio": "u5l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l3w4",
+            "marathi": "मावशी",
+            "transliteration": "Mavshi",
+            "english": "Aunt (maternal)",
+            "emoji": "👩",
+            "audio": "u5l3w4.mp3",
+            "examples": [
+              {
+                "id": "u5l3w4_ex1",
+                "marathi": "मावशी छान स्वयंपाक करते.",
+                "transliteration": "Mavshi Chaan Swayampak Karte.",
+                "english": "Aunt cooks nicely.",
+                "audio": "u5l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u5l4w1",
+            "marathi": "मुलगा",
+            "transliteration": "Mulga",
+            "english": "Son",
+            "emoji": "👦",
+            "audio": "u5l4w1.mp3",
+            "examples": [
+              {
+                "id": "u5l4w1_ex1",
+                "marathi": "माझा मुलगा शाळेत जातो.",
+                "transliteration": "Maza Mulga Shaalet Jato.",
+                "english": "My son goes to school.",
+                "audio": "u5l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l4w2",
+            "marathi": "मुलगी",
+            "transliteration": "Mulgi",
+            "english": "Daughter",
+            "emoji": "👧",
+            "audio": "u5l4w2.mp3",
+            "examples": [
+              {
+                "id": "u5l4w2_ex1",
+                "marathi": "माझी मुलगी नाचते.",
+                "transliteration": "Mazi Mulgi Nachte.",
+                "english": "My daughter dances.",
+                "audio": "u5l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l4w3",
+            "marathi": "पती",
+            "transliteration": "Pati",
+            "english": "Husband",
+            "emoji": "🤵",
+            "audio": "u5l4w3.mp3",
+            "examples": [
+              {
+                "id": "u5l4w3_ex1",
+                "marathi": "माझे पती कामावर आहेत.",
+                "transliteration": "Maze Pati Kaamavar Aahet.",
+                "english": "My husband is at work.",
+                "audio": "u5l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u5l4w4",
+            "marathi": "पत्नी",
+            "transliteration": "Patni",
+            "english": "Wife",
+            "emoji": "👰",
+            "audio": "u5l4w4.mp3",
+            "examples": [
+              {
+                "id": "u5l4w4_ex1",
+                "marathi": "माझी पत्नी शिक्षिका आहे.",
+                "transliteration": "Mazi Patni Shikshika Aahe.",
+                "english": "My wife is a teacher.",
+                "audio": "u5l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 4,
+    "title": "Basic Sentences",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u4l1w1",
+            "marathi": "हे काय आहे?",
+            "transliteration": "He Kay Aahe?",
+            "english": "What is this?",
+            "emoji": "❓",
+            "audio": "u4l1w1.mp3",
+            "examples": [
+              {
+                "id": "u4l1w1_ex1",
+                "marathi": "हे काय आहे?",
+                "transliteration": "He Kay Aahe?",
+                "english": "What is this?",
+                "audio": "u4l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l1w2",
+            "marathi": "ते तिथे आहे",
+            "transliteration": "Te Tithe Aahe",
+            "english": "That is there",
+            "emoji": "👉",
+            "audio": "u4l1w2.mp3",
+            "examples": [
+              {
+                "id": "u4l1w2_ex1",
+                "marathi": "पुस्तक तिथे आहे.",
+                "transliteration": "Pustak Tithe Aahe.",
+                "english": "The book is there.",
+                "audio": "u4l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l1w3",
+            "marathi": "मला हवे आहे",
+            "transliteration": "Mala Have Aahe",
+            "english": "I want",
+            "emoji": "🙋",
+            "audio": "u4l1w3.mp3",
+            "examples": [
+              {
+                "id": "u4l1w3_ex1",
+                "marathi": "मला पाणी हवे आहे.",
+                "transliteration": "Mala Pani Have Aahe.",
+                "english": "I want water.",
+                "audio": "u4l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l1w4",
+            "marathi": "मला आवडते",
+            "transliteration": "Mala Aavadte",
+            "english": "I like it",
+            "emoji": "❤️",
+            "audio": "u4l1w4.mp3",
+            "examples": [
+              {
+                "id": "u4l1w4_ex1",
+                "marathi": "मला हे गाणे आवडते.",
+                "transliteration": "Mala He Gaane Aavadte.",
+                "english": "I like this song.",
+                "audio": "u4l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u4l2w1",
+            "marathi": "हे चांगले आहे",
+            "transliteration": "He Changle Aahe",
+            "english": "This is good",
+            "emoji": "👌",
+            "audio": "u4l2w1.mp3",
+            "examples": [
+              {
+                "id": "u4l2w1_ex1",
+                "marathi": "हे जेवण चांगले आहे.",
+                "transliteration": "He Jevan Changle Aahe.",
+                "english": "This food is good.",
+                "audio": "u4l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l2w2",
+            "marathi": "किती वाजले?",
+            "transliteration": "Kiti Vajle?",
+            "english": "What time is it?",
+            "emoji": "⏰",
+            "audio": "u4l2w2.mp3",
+            "examples": [
+              {
+                "id": "u4l2w2_ex1",
+                "marathi": "आता किती वाजले?",
+                "transliteration": "Aata Kiti Vajle?",
+                "english": "What time is it now?",
+                "audio": "u4l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l2w3",
+            "marathi": "आज सोमवार आहे",
+            "transliteration": "Aaj Somvar Aahe",
+            "english": "Today is Monday",
+            "emoji": "📅",
+            "audio": "u4l2w3.mp3",
+            "examples": [
+              {
+                "id": "u4l2w3_ex1",
+                "marathi": "आज सोमवार आहे.",
+                "transliteration": "Aaj Somvar Aahe.",
+                "english": "Today is Monday.",
+                "audio": "u4l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l2w4",
+            "marathi": "चल जाऊया",
+            "transliteration": "Chal Jauya",
+            "english": "Let's go",
+            "emoji": "🚗",
+            "audio": "u4l2w4.mp3",
+            "examples": [
+              {
+                "id": "u4l2w4_ex1",
+                "marathi": "चल, आपण जाऊया.",
+                "transliteration": "Chal, Aapan Jauya.",
+                "english": "Come on, let's go.",
+                "audio": "u4l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u4l3w1",
+            "marathi": "ते कोण आहे?",
+            "transliteration": "Te Kon Aahe?",
+            "english": "Who is that?",
+            "emoji": "❓",
+            "audio": "u4l3w1.mp3",
+            "examples": [
+              {
+                "id": "u4l3w1_ex1",
+                "marathi": "ते कोण आहे तिथे?",
+                "transliteration": "Te Kon Aahe Tithe?",
+                "english": "Who is that over there?",
+                "audio": "u4l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l3w2",
+            "marathi": "मला नको",
+            "transliteration": "Mala Nako",
+            "english": "I don't want",
+            "emoji": "🙅",
+            "audio": "u4l3w2.mp3",
+            "examples": [
+              {
+                "id": "u4l3w2_ex1",
+                "marathi": "मला ते नको.",
+                "transliteration": "Mala Te Nako.",
+                "english": "I don't want that.",
+                "audio": "u4l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l3w3",
+            "marathi": "मला माहीत नाही",
+            "transliteration": "Mala Mahit Nahi",
+            "english": "I don't know",
+            "emoji": "🤷",
+            "audio": "u4l3w3.mp3",
+            "examples": [
+              {
+                "id": "u4l3w3_ex1",
+                "marathi": "मला माहीत नाही, माफ करा.",
+                "transliteration": "Mala Mahit Nahi, Maaf Kara.",
+                "english": "I don't know, sorry.",
+                "audio": "u4l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l3w4",
+            "marathi": "हे सोपे आहे",
+            "transliteration": "He Sope Aahe",
+            "english": "This is easy",
+            "emoji": "😊",
+            "audio": "u4l3w4.mp3",
+            "examples": [
+              {
+                "id": "u4l3w4_ex1",
+                "marathi": "हे काम सोपे आहे.",
+                "transliteration": "He Kaam Sope Aahe.",
+                "english": "This work is easy.",
+                "audio": "u4l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u4l4w1",
+            "marathi": "हे कठीण आहे",
+            "transliteration": "He Kathin Aahe",
+            "english": "This is difficult",
+            "emoji": "😓",
+            "audio": "u4l4w1.mp3",
+            "examples": [
+              {
+                "id": "u4l4w1_ex1",
+                "marathi": "हा प्रश्न कठीण आहे.",
+                "transliteration": "Ha Prashna Kathin Aahe.",
+                "english": "This question is difficult.",
+                "audio": "u4l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l4w2",
+            "marathi": "किती किंमत आहे?",
+            "transliteration": "Kiti Kimmat Aahe?",
+            "english": "How much does it cost?",
+            "emoji": "💰",
+            "audio": "u4l4w2.mp3",
+            "examples": [
+              {
+                "id": "u4l4w2_ex1",
+                "marathi": "या पुस्तकाची किती किंमत आहे?",
+                "transliteration": "Ya Pustakachi Kiti Kimmat Aahe?",
+                "english": "How much does this book cost?",
+                "audio": "u4l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l4w3",
+            "marathi": "मला जायचे आहे",
+            "transliteration": "Mala Jayche Aahe",
+            "english": "I want to go",
+            "emoji": "🚶",
+            "audio": "u4l4w3.mp3",
+            "examples": [
+              {
+                "id": "u4l4w3_ex1",
+                "marathi": "मला आता घरी जायचे आहे.",
+                "transliteration": "Mala Aata Ghari Jayche Aahe.",
+                "english": "I want to go home now.",
+                "audio": "u4l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u4l4w4",
+            "marathi": "थोडा वेळ थांबा",
+            "transliteration": "Thoda Vel Thamba",
+            "english": "Wait a little while",
+            "emoji": "⏳",
+            "audio": "u4l4w4.mp3",
+            "examples": [
+              {
+                "id": "u4l4w4_ex1",
+                "marathi": "थोडा वेळ थांबा, मी येतो.",
+                "transliteration": "Thoda Vel Thamba, Mi Yeto.",
+                "english": "Wait a little while, I'm coming.",
+                "audio": "u4l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

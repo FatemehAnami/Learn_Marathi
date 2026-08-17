@@ -1,0 +1,304 @@
+[
+  {
+    "unit": 1,
+    "title": "Greetings",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Lesson1",
+        "words": [
+          {
+            "id": "u1l1w1",
+            "marathi": "नमस्कार",
+            "transliteration": "Namaskar",
+            "english": "Hello",
+            "emoji": "🙏",
+            "audio": "u1l1w1.mp3",
+            "examples": [
+              {
+                "id": "u1l1w1_ex1",
+                "marathi": "नमस्कार, कसे आहात?",
+                "transliteration": "Namaskar, Kase Aahat?",
+                "english": "Hello, how are you?",
+                "audio": "u1l1w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l1w2",
+            "marathi": "सुप्रभात",
+            "transliteration": "Suprabhat",
+            "english": "Good morning",
+            "emoji": "🌅",
+            "audio": "u1l1w2.mp3",
+            "examples": [
+              {
+                "id": "u1l1w2_ex1",
+                "marathi": "सुप्रभात! छान दिवस!",
+                "transliteration": "Suprabhat! Chaan Divas!",
+                "english": "Good morning! Nice day!",
+                "audio": "u1l1w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l1w3",
+            "marathi": "शुभ रात्री",
+            "transliteration": "Shubh Ratri",
+            "english": "Good night",
+            "emoji": "🌙",
+            "audio": "u1l1w3.mp3",
+            "examples": [
+              {
+                "id": "u1l1w3_ex1",
+                "marathi": "शुभ रात्री, झोपा आता.",
+                "transliteration": "Shubh Ratri, Zopa Aata.",
+                "english": "Good night, sleep now.",
+                "audio": "u1l1w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l1w4",
+            "marathi": "धन्यवाद",
+            "transliteration": "Dhanyavad",
+            "english": "Thank you",
+            "emoji": "🙏",
+            "audio": "u1l1w4.mp3",
+            "examples": [
+              {
+                "id": "u1l1w4_ex1",
+                "marathi": "मदतीसाठी धन्यवाद.",
+                "transliteration": "Madatisathi Dhanyavad.",
+                "english": "Thank you for the help.",
+                "audio": "u1l1w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson2",
+        "words": [
+          {
+            "id": "u1l2w1",
+            "marathi": "माफ करा",
+            "transliteration": "Maaf Kara",
+            "english": "Sorry / Excuse me",
+            "emoji": "😅",
+            "audio": "u1l2w1.mp3",
+            "examples": [
+              {
+                "id": "u1l2w1_ex1",
+                "marathi": "माफ करा, उशीर झाला.",
+                "transliteration": "Maaf Kara, Usheer Zhala.",
+                "english": "Sorry, I'm late.",
+                "audio": "u1l2w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l2w2",
+            "marathi": "कसे आहात?",
+            "transliteration": "Kase Aahat?",
+            "english": "How are you?",
+            "emoji": "❓",
+            "audio": "u1l2w2.mp3",
+            "examples": [
+              {
+                "id": "u1l2w2_ex1",
+                "marathi": "तुम्ही कसे आहात आज?",
+                "transliteration": "Tumhi Kase Aahat Aaj?",
+                "english": "How are you today?",
+                "audio": "u1l2w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l2w3",
+            "marathi": "ठीक आहे",
+            "transliteration": "Theek Aahe",
+            "english": "I'm fine",
+            "emoji": "👍",
+            "audio": "u1l2w3.mp3",
+            "examples": [
+              {
+                "id": "u1l2w3_ex1",
+                "marathi": "मी ठीक आहे, धन्यवाद.",
+                "transliteration": "Mi Theek Aahe, Dhanyavad.",
+                "english": "I am fine, thank you.",
+                "audio": "u1l2w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l2w4",
+            "marathi": "भेटूया",
+            "transliteration": "Bhetuya",
+            "english": "See you",
+            "emoji": "👋",
+            "audio": "u1l2w4.mp3",
+            "examples": [
+              {
+                "id": "u1l2w4_ex1",
+                "marathi": "उद्या भेटूया.",
+                "transliteration": "Udya Bhetuya.",
+                "english": "Let's meet tomorrow.",
+                "audio": "u1l2w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson3",
+        "words": [
+          {
+            "id": "u1l3w1",
+            "marathi": "शुभ संध्याकाळ",
+            "transliteration": "Shubh Sandhyakal",
+            "english": "Good evening",
+            "emoji": "🌆",
+            "audio": "u1l3w1.mp3",
+            "examples": [
+              {
+                "id": "u1l3w1_ex1",
+                "marathi": "शुभ संध्याकाळ, कसे आहात?",
+                "transliteration": "Shubh Sandhyakal, Kase Aahat?",
+                "english": "Good evening, how are you?",
+                "audio": "u1l3w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l3w2",
+            "marathi": "आपले स्वागत आहे",
+            "transliteration": "Aaple Swagat Aahe",
+            "english": "You are welcome",
+            "emoji": "🙏",
+            "audio": "u1l3w2.mp3",
+            "examples": [
+              {
+                "id": "u1l3w2_ex1",
+                "marathi": "आपले स्वागत आहे, आत या.",
+                "transliteration": "Aaple Swagat Aahe, Aat Ya.",
+                "english": "You are welcome, come in.",
+                "audio": "u1l3w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l3w3",
+            "marathi": "काळजी घ्या",
+            "transliteration": "Kaalji Ghya",
+            "english": "Take care",
+            "emoji": "🤗",
+            "audio": "u1l3w3.mp3",
+            "examples": [
+              {
+                "id": "u1l3w3_ex1",
+                "marathi": "काळजी घ्या, भेटूया.",
+                "transliteration": "Kaalji Ghya, Bhetuya.",
+                "english": "Take care, see you.",
+                "audio": "u1l3w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l3w4",
+            "marathi": "शुभेच्छा",
+            "transliteration": "Shubhechha",
+            "english": "Best wishes",
+            "emoji": "🌟",
+            "audio": "u1l3w4.mp3",
+            "examples": [
+              {
+                "id": "u1l3w4_ex1",
+                "marathi": "वाढदिवसाच्या शुभेच्छा!",
+                "transliteration": "Vaadhdivasachya Shubhechha!",
+                "english": "Happy birthday wishes!",
+                "audio": "u1l3w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson4",
+        "words": [
+          {
+            "id": "u1l4w1",
+            "marathi": "अभिनंदन",
+            "transliteration": "Abhinandan",
+            "english": "Congratulations",
+            "emoji": "🎉",
+            "audio": "u1l4w1.mp3",
+            "examples": [
+              {
+                "id": "u1l4w1_ex1",
+                "marathi": "अभिनंदन, तू यशस्वी झालास!",
+                "transliteration": "Abhinandan, Tu Yashasvi Zhalas!",
+                "english": "Congratulations, you succeeded!",
+                "audio": "u1l4w1_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l4w2",
+            "marathi": "पुन्हा भेटू",
+            "transliteration": "Punha Bhetu",
+            "english": "See you again",
+            "emoji": "👋",
+            "audio": "u1l4w2.mp3",
+            "examples": [
+              {
+                "id": "u1l4w2_ex1",
+                "marathi": "पुन्हा भेटू, लवकरच.",
+                "transliteration": "Punha Bhetu, Lavkarach.",
+                "english": "See you again, soon.",
+                "audio": "u1l4w2_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l4w3",
+            "marathi": "आपण कसे आहात?",
+            "transliteration": "Aapan Kase Aahat?",
+            "english": "How are you (formal)",
+            "emoji": "❓",
+            "audio": "u1l4w3.mp3",
+            "examples": [
+              {
+                "id": "u1l4w3_ex1",
+                "marathi": "नमस्कार, आपण कसे आहात?",
+                "transliteration": "Namaskar, Aapan Kase Aahat?",
+                "english": "Hello, how are you (formal)?",
+                "audio": "u1l4w3_ex1.mp3"
+              }
+            ]
+          },
+          {
+            "id": "u1l4w4",
+            "marathi": "कृपा करून",
+            "transliteration": "Krupa Karun",
+            "english": "Kindly",
+            "emoji": "🙏",
+            "audio": "u1l4w4.mp3",
+            "examples": [
+              {
+                "id": "u1l4w4_ex1",
+                "marathi": "कृपा करून बसा.",
+                "transliteration": "Krupa Karun Basa.",
+                "english": "Kindly sit down.",
+                "audio": "u1l4w4_ex1.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
