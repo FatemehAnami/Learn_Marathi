@@ -72,3 +72,7 @@ The application organizes learning into:
     - Dart SDK
     - Android Studio or VS Code
     - Android/iOS development environment
+
+<img width="850" height="562" alt="image" src="https://github.com/user-attachments/assets/0a5f214c-9d3b-4648-bd52-f05d7b219da6" />
+
+    
